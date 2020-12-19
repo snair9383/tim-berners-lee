@@ -98,3 +98,16 @@ p {
     background-color:darkblue;
     font-size: 22px;
 }
+body{
+    text-align: center;
+}
+.article{
+    font-size:30px;
+    color: cornflowerblue;
+}
+.article:hover{
+    font-size:35px; 
+}
+html{
+    scroll-behavior: smooth;
+}
